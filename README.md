@@ -2,9 +2,9 @@
 
  - Add the necessary functionality using JavaScript and DOM:
    
-    -Mark news as “read”
-    -Mark news as “favorite”
-    -Delete news from search result
+    1 Mark news as “read”   
+    2 Mark news as “favorite”   
+    3 Delete news from search result
 
  - Replicated a design on Figma using HTML, CSS, and Sass 
 
